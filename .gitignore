@@ -1,0 +1,4 @@
+/node_modules
+/myenvpy
+/backend/__pycache__
+.env
